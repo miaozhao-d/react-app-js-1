@@ -1,3 +1,9 @@
 export const Entry = () => {
-  return <></>;
+  return (
+    <>
+      <div>
+        <div></div> <div></div> <div></div> <div></div>
+      </div>
+    </>
+  );
 };
