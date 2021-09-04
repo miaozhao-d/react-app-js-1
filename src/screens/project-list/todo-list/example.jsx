@@ -3,7 +3,7 @@ import { Entry } from "entry";
 const Example = () => {
   return (
     <>
-      <Entry></Entry>
+      <Entry />
     </>
   );
 };
