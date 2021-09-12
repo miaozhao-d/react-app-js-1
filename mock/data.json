@@ -1,0 +1,92 @@
+{
+    "managers": [
+        {
+            "id": 1,
+            "name": "Miao Zhao"
+        },
+        {
+            "id": 2,
+            "name": "Justin Huang"
+        },
+        {
+            "id": 3,
+            "name": "Olivia Li"
+        },
+        {
+            "id": 4,
+            "name": "Patrick"
+        }
+    ],
+    "projects": [
+        {
+            "id":1,
+            "name": "Project1",
+            "manager_id": 1,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":2,
+            "name": "Project1",
+            "manager_id": 2,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":3,
+            "name": "Project2",
+            "manager_id": 4,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":4,
+            "name": "Project4",
+            "manager_id": 3,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":5,
+            "name": "Project2",
+            "manager_id": 1,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":6,
+            "name": "Project5",
+            "manager_id": 4,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":7,
+            "name": "Project3",
+            "manager_id": 2,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":8,
+            "name": "Project5",
+            "manager_id": 3,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":9,
+            "name": "Project2",
+            "manager_id": 1,
+            "team_id": "Team One",
+            "created_id":213232435
+        },
+        {
+            "id":10,
+            "name": "Project1",
+            "manager_id": 4,
+            "team_id": "Team One",
+            "created_id":213232435
+        }
+    ]
+}
